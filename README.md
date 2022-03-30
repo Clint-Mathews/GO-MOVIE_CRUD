@@ -11,4 +11,4 @@
 
 Using gorilla/mux for routes <br/>
 To install mux: go get "https://github.com/gorilla/mux" <br/>
-Right now the data is from application slice which could be updated to a database 
+Right now the data is from internal static slice which could be updated to a database. 
